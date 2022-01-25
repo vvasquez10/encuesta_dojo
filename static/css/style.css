@@ -1,0 +1,41 @@
+*{
+    margin: auto;
+    padding: 0;
+}
+.container{
+    height: 800px;
+    width: 70%;
+}
+
+.form{
+    margin-top: 2%;
+    height: auto;
+    width: 90%;
+    background-color: darkslategray;
+    color: white;
+}
+
+form{
+    width: 90%;
+    padding-block: 2%;
+
+}
+.title{
+    text-align: center;
+}
+.form-group{
+    padding-block: 0.5%;
+}
+
+.boton{
+    text-align: right;
+}
+
+.tabla{
+    width: 90%;
+    padding-block: 10px;    
+}
+
+tbody{
+    color: white;
+}
